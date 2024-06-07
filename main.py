@@ -8,3 +8,5 @@ st.slider('Top P', 0.00, 1.00, 1.00)
 st.slider('Maximum length', 1, 4000, 1)
 st.checkbox('Show probabilities')
 st.code('print("Hello, world!")', language='python', line_numbers = True)
+
+#https://21520255-cau-1-4.streamlit.app/
